@@ -1,8 +1,4 @@
-## Mini Project-Postaway-II 
-   - Problem Statement https://classroom.codingninjas.com/app/classroom/me/25432/content/694562/offering/11358488
-
-
-# Postaway-II: Social Media Backend API
+# Postaway: Social Media Backend API
 
 ## Objective
 Develop a robust social media backend REST API using Node.js, Express.js, and MongoDB, allowing users to create posts, comment, like, send friend requests, and reset passwords using OTP authentication.
@@ -16,6 +12,8 @@ Develop a robust social media backend REST API using Node.js, Express.js, and Mo
 - **User Profile Management**: Update user details and avatar uploads.
 - **OTP-Based Password Reset**: Secure password reset using OTP.
 - **RESTful API Design**: Organized routes and controllers for scalability.
+- **AWS (S3, EC2)**:
+Integrated AWS S3 for scalable media storage & deployed on AWS EC2, ensuring 99.9% uptime and high availability.
 
 ---
 
@@ -33,8 +31,7 @@ Develop a robust social media backend REST API using Node.js, Express.js, and Mo
 ## Installation & Setup
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/satyam-software-developer/postaway-II.git
-cd postaway-ii
+git clone https://github.com/sumit619sharma/PostWay.git
 ```
 ### 2. Install Dependencies
 ```sh
